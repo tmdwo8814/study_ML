@@ -9,7 +9,7 @@
 - 자연어처리에 사용/cnn은 컴퓨터 비전,이미지
 - 단어의 순서를 고려할 수 있어, 순서 변화에 따른 의미 변화를 찾아낼 수 있음
 
-![Untitled](RNN%206f46a315a9844c05add74c105b3a29cf/Untitled.png)
+![Untitled](RNN/Untitled.png)
 
 ![Untitled](RNN%206f46a315a9844c05add74c105b3a29cf/Untitled%201.png)
 
